@@ -6,14 +6,119 @@
     "children": [
       {
         "type": "folder",
-        "addDate": 1730817354910,
-        "title": "Imported",
+        "addDate": 1730821187744,
+        "title": "My Bookmarks",
         "children": [
           {
             "type": "folder",
-            "addDate": 1730817354911,
+            "addDate": 1730821187746,
             "title": "00.GITHUB",
             "children": [
+              {
+                "type": "link",
+                "addDate": 1730815813000,
+                "title": "Pintree-io/pintree",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/Pintree-io/pintree"
+              },
+              {
+                "type": "link",
+                "addDate": 1730815696000,
+                "title": "udlbook/udlbook",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/udlbook/udlbook"
+              },
+              {
+                "type": "link",
+                "addDate": 1730815596000,
+                "title": "aria2/aria2",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/aria2/aria2"
+              },
+              {
+                "type": "link",
+                "addDate": 1730815557000,
+                "title": "TahaSh/swapy",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/TahaSh/swapy"
+              },
+              {
+                "type": "link",
+                "addDate": 1730815491000,
+                "title": "guozhigq/pilipala",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/guozhigq/pilipala"
+              },
+              {
+                "type": "link",
+                "addDate": 1730812538000,
+                "title": "Lissy93/dashy",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/Lissy93/dashy"
+              },
+              {
+                "type": "link",
+                "addDate": 1730812469000,
+                "title": "antfu-collective/icones",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/antfu-collective/icones"
+              },
+              {
+                "type": "link",
+                "addDate": 1730812429000,
+                "title": "photoview/photoview",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/photoview/photoview"
+              },
+              {
+                "type": "link",
+                "addDate": 1730809596000,
+                "title": "bloomberg/memray",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/bloomberg/memray"
+              },
+              {
+                "type": "link",
+                "addDate": 1730809532000,
+                "title": "karatelabs/karate",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/karatelabs/karate"
+              },
+              {
+                "type": "link",
+                "addDate": 1730809479000,
+                "title": "NirDiamant/Prompt_Engineering",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/NirDiamant/Prompt_Engineering"
+              },
+              {
+                "type": "link",
+                "addDate": 1730800779000,
+                "title": "NilsIrl/dockerc",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/NilsIrl/dockerc"
+              },
+              {
+                "type": "link",
+                "addDate": 1730800640000,
+                "title": "bndr/pipreqs",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/bndr/pipreqs"
+              },
+              {
+                "type": "link",
+                "addDate": 1730799421000,
+                "title": "AmruthPillai/Reactive-Resume",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/AmruthPillai/Reactive-Resume"
+              },
+              {
+                "type": "link",
+                "addDate": 1730799173000,
+                "title": "mediar-ai/screenpipe",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/mediar-ai/screenpipe"
+              },
               {
                 "type": "link",
                 "addDate": 1730761830000,
@@ -2601,7 +2706,7 @@
           },
           {
             "type": "folder",
-            "addDate": 1730817354970,
+            "addDate": 1730821188025,
             "title": "01.WEBAPPS",
             "children": [
               {
@@ -3751,12 +3856,19 @@
                 "title": "OpenHands - Copilot",
                 "icon": "https://logo.clearbit.com/github.com",
                 "url": "https://github.com/All-Hands-AI/OpenHands"
+              },
+              {
+                "type": "link",
+                "addDate": 1730762159198,
+                "title": "Nebius AI Cloud Explorer Tier with H100 starting from just $1.5 per hour",
+                "icon": "https://logo.clearbit.com/nebius.com",
+                "url": "https://nebius.com/explorer-tier?utm_campaign=explorer-tier_cloud&utm_source=taaft&utm_medium=email&_bhlid=06aaaa9e5b8337e562ce49fa486c9a14f2074329"
               }
             ]
           },
           {
             "type": "folder",
-            "addDate": 1730817354998,
+            "addDate": 1730821188150,
             "title": "02.WEBBLOGS",
             "children": [
               {
@@ -4094,12 +4206,26 @@
                 "title": "A Rapid Tutorial On Unsloth",
                 "icon": "https://logo.clearbit.com/www.stephendiehl.com",
                 "url": "https://www.stephendiehl.com/posts/unsloth/"
+              },
+              {
+                "type": "link",
+                "addDate": 1730647613724,
+                "title": "Beginner's Guide to ComfyUI - Stable Diffusion Art",
+                "icon": "https://logo.clearbit.com/stable-diffusion-art.com",
+                "url": "https://stable-diffusion-art.com/comfyui/"
+              },
+              {
+                "type": "link",
+                "addDate": 1730741563594,
+                "title": "Tiny GraphRAG (Part 1)",
+                "icon": "https://logo.clearbit.com/www.stephendiehl.com",
+                "url": "https://www.stephendiehl.com/posts/graphrag1/"
               }
             ]
           },
           {
             "type": "folder",
-            "addDate": 1730817355007,
+            "addDate": 1730821188192,
             "title": "03.WEBDOCS",
             "children": [
               {
@@ -4470,9 +4596,16 @@
           },
           {
             "type": "folder",
-            "addDate": 1730817355019,
+            "addDate": 1730821188231,
             "title": "04.WEBSITES",
             "children": [
+              {
+                "type": "link",
+                "addDate": 1730818933000,
+                "title": "Pintree",
+                "icon": "https://logo.clearbit.com/theospeak.github.io",
+                "url": "https://theospeak.github.io/pintree/"
+              },
               {
                 "type": "link",
                 "addDate": 1730809435000,
@@ -4617,7 +4750,7 @@
           },
           {
             "type": "folder",
-            "addDate": 1730817355023,
+            "addDate": 1730821188249,
             "title": "05.WEBBOARDS",
             "children": [
               {
@@ -4724,6 +4857,13 @@
                 "title": "Inclusiveness Index | Othering & Belonging Institute",
                 "icon": "https://logo.clearbit.com/belonging.berkeley.edu",
                 "url": "https://belonging.berkeley.edu/inclusiveness-index"
+              },
+              {
+                "type": "link",
+                "addDate": 1730663317609,
+                "title": "LLM Framework Leaderboard | Differentiated",
+                "icon": "https://logo.clearbit.com/www.differentiated.io",
+                "url": "https://www.differentiated.io/llm-framework-leaderboard"
               }
             ]
           }
