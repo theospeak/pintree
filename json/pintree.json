@@ -566,6 +566,139 @@
                 "title": "AI Voice Assistant Quickstart | LiveKit Docs",
                 "icon": "https://logo.clearbit.com/docs.livekit.io",
                 "url": "https://docs.livekit.io/agents/quickstarts/voice-agent/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732088442378,
+                "title": "Wit.ai",
+                "icon": "https://logo.clearbit.com/wit.ai",
+                "url": "https://wit.ai/docs/recipes#support-multi-turn-conversations"
+              },
+              {
+                "type": "link",
+                "addDate": 1732088442378,
+                "title": "microsoft/LLM2CLIP: LLM2CLIP makes SOTA pretrained CLIP model more SOTA ever.",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/microsoft/LLM2CLIP"
+              },
+              {
+                "type": "link",
+                "addDate": 1732088442378,
+                "title": "World's Radio | Listen to Radio Stations from Around the World",
+                "icon": "https://logo.clearbit.com/www.worldsradio.com",
+                "url": "https://www.worldsradio.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732088442378,
+                "title": "Building Vectorize, a distributed vector database, on Cloudflare’s Developer Platform",
+                "icon": "https://logo.clearbit.com/blog.cloudflare.com",
+                "url": "https://blog.cloudflare.com/building-vectorize-a-distributed-vector-database-on-cloudflare-developer-platform/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732088442379,
+                "title": "Cognee - We help you build deterministic AI memory",
+                "icon": "https://logo.clearbit.com/www.cognee.ai",
+                "url": "https://www.cognee.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732088442379,
+                "title": "Dataset Run Comparison View - Langfuse",
+                "icon": "https://logo.clearbit.com/langfuse.com",
+                "url": "https://langfuse.com/changelog/2024-11-18-dataset-runs-comparison-view"
+              },
+              {
+                "type": "link",
+                "addDate": 1732088442379,
+                "title": "Secure Natural Language Processing Architecture | by Guilherme Silveira | Nov, 2024 | Medium",
+                "icon": "https://logo.clearbit.com/medium.com",
+                "url": "https://medium.com/@gbasilveira/secure-natural-language-processing-architecture-f1f0d7b48db3"
+              },
+              {
+                "type": "link",
+                "addDate": 1732088442379,
+                "title": "Transitioning from the Attention Era to the Automation Era | Drew Breunig",
+                "icon": "https://logo.clearbit.com/www.dbreunig.com",
+                "url": "https://www.dbreunig.com/2024/11/18/transitioning-from-the-attention-era-to-the-automation-era.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1732088442379,
+                "title": "Roadmap 2024 Year-end Update: Full steam ahead! - Home Assistant",
+                "icon": "https://logo.clearbit.com/www.home-assistant.io",
+                "url": "https://www.home-assistant.io/blog/2024/11/15/roadmap-2024h2/#voice-assistants"
+              },
+              {
+                "type": "link",
+                "addDate": 1732088442379,
+                "title": "Leaner large language models could enable efficient local use on phones and laptops - Princeton Engineering",
+                "icon": "https://logo.clearbit.com/engineering.princeton.edu",
+                "url": "https://engineering.princeton.edu/news/2024/11/18/leaner-large-language-models-could-enable-efficient-local-use-phones-and-laptops"
+              },
+              {
+                "type": "link",
+                "addDate": 1732088442380,
+                "title": "[2409.14924] Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make your LLMs use External Data More Wisely",
+                "icon": "https://logo.clearbit.com/arxiv.org",
+                "url": "https://arxiv.org/abs/2409.14924"
+              },
+              {
+                "type": "link",
+                "addDate": 1732088442380,
+                "title": "Four Levels of RAG — Research from Microsoft | by Cobus Greyling | Nov, 2024 | Medium",
+                "icon": "https://logo.clearbit.com/cobusgreyling.medium.com",
+                "url": "https://cobusgreyling.medium.com/four-levels-of-rag-research-from-microsoft-fdc54388f0ff"
+              },
+              {
+                "type": "link",
+                "addDate": 1732088442380,
+                "title": "[2403.07257] The Dawn of AI-Native EDA: Opportunities and Challenges of Large Circuit Models",
+                "icon": "https://logo.clearbit.com/arxiv.org",
+                "url": "https://arxiv.org/abs/2403.07257"
+              },
+              {
+                "type": "link",
+                "addDate": 1732088442380,
+                "title": "Tiny Neighborhoods - Stephen Bateman",
+                "icon": "https://logo.clearbit.com/iambateman.com",
+                "url": "https://iambateman.com/tiny"
+              },
+              {
+                "type": "link",
+                "addDate": 1732088442380,
+                "title": "Preparing Text Data for Transformers: Tokenization, Mapping and Padding | by Ganesh Lokare | Medium",
+                "icon": "https://logo.clearbit.com/medium.com",
+                "url": "https://medium.com/@lokaregns/preparing-text-data-for-transformers-tokenization-mapping-and-padding-9fbfbce28028#:~:text=1.,overall%20performance%20of%20the%20model."
+              },
+              {
+                "type": "link",
+                "addDate": 1732088442380,
+                "title": "whoishiring's submissions | Hacker News",
+                "icon": "https://logo.clearbit.com/news.ycombinator.com",
+                "url": "https://news.ycombinator.com/submitted?id=whoishiring"
+              },
+              {
+                "type": "link",
+                "addDate": 1732088578644,
+                "title": "Announcing GitHub for Nonprofits - GitHub Changelog",
+                "icon": "https://logo.clearbit.com/github.blog",
+                "url": "https://github.blog/changelog/2024-10-23-announcing-github-for-nonprofits/"
+              },
+              {
+                "type": "link",
+                "addDate": 1730860178000,
+                "title": "A Meticulous Guide to Advances in Deep Learning Efficiency over the Years | Alex L. Zhang",
+                "icon": "https://logo.clearbit.com/alexzhang13.github.io",
+                "url": "https://alexzhang13.github.io/blog/2024/efficient-dl/#a1-where-to-access-free-gpus"
+              },
+              {
+                "type": "link",
+                "addDate": 1730860178000,
+                "title": "veggiemonk/awesome-docker: :whale: A curated list of Docker resources and projects",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/veggiemonk/awesome-docker"
               }
             ]
           },
@@ -594,13 +727,6 @@
                 "title": "SharifiZarchi/Introduction_to_Machine_Learning",
                 "icon": "https://logo.clearbit.com/github.com",
                 "url": "https://github.com/SharifiZarchi/Introduction_to_Machine_Learning"
-              },
-              {
-                "type": "link",
-                "addDate": 1730860178000,
-                "title": "stefan-jansen/machine-learning-for-trading",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/stefan-jansen/machine-learning-for-trading"
               },
               {
                 "type": "link",
@@ -640,13 +766,6 @@
               {
                 "type": "link",
                 "addDate": 1730860178000,
-                "title": "MunGell/awesome-for-beginners: A list of awesome beginners-friendly projects.",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/MunGell/awesome-for-beginners"
-              },
-              {
-                "type": "link",
-                "addDate": 1730860178000,
                 "title": "prakhar1989/awesome-courses: :books: List of awesome university courses for learning Computer Science!",
                 "icon": "https://logo.clearbit.com/github.com",
                 "url": "https://github.com/prakhar1989/awesome-courses"
@@ -654,30 +773,9 @@
               {
                 "type": "link",
                 "addDate": 1730860178000,
-                "title": "A Meticulous Guide to Advances in Deep Learning Efficiency over the Years | Alex L. Zhang",
-                "icon": "https://logo.clearbit.com/alexzhang13.github.io",
-                "url": "https://alexzhang13.github.io/blog/2024/efficient-dl/#a1-where-to-access-free-gpus"
-              },
-              {
-                "type": "link",
-                "addDate": 1730860178000,
                 "title": "txtai/examples/65_Speech_to_Speech_RAG.ipynb at master · neuml/txtai",
                 "icon": "https://logo.clearbit.com/github.com",
                 "url": "https://github.com/neuml/txtai/blob/master/examples/65_Speech_to_Speech_RAG.ipynb"
-              },
-              {
-                "type": "link",
-                "addDate": 1730860178000,
-                "title": "Announcing GitHub for Nonprofits - GitHub Changelog",
-                "icon": "https://logo.clearbit.com/github.blog",
-                "url": "https://github.blog/changelog/2024-10-23-announcing-github-for-nonprofits/"
-              },
-              {
-                "type": "link",
-                "addDate": 1730860178000,
-                "title": "veggiemonk/awesome-docker: :whale: A curated list of Docker resources and projects",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/veggiemonk/awesome-docker"
               },
               {
                 "type": "link",
@@ -699,13 +797,6 @@
                 "title": "sindresorhus/awesome-nodejs: :zap: Delightful Node.js packages and resources",
                 "icon": "https://logo.clearbit.com/github.com",
                 "url": "https://github.com/sindresorhus/awesome-nodejs"
-              },
-              {
-                "type": "link",
-                "addDate": 1730860178000,
-                "title": "awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
               },
               {
                 "type": "link",
@@ -762,13 +853,6 @@
                 "title": "swyxio/ai-notes",
                 "icon": "https://logo.clearbit.com/github.com",
                 "url": "https://github.com/swyxio/ai-notes"
-              },
-              {
-                "type": "link",
-                "addDate": 1730860178000,
-                "title": "codecrafters-io/build-your-own-x",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/codecrafters-io/build-your-own-x"
               },
               {
                 "type": "link",
@@ -867,13 +951,6 @@
                 "title": "wehos/awesome-graph-transformer",
                 "icon": "https://logo.clearbit.com/github.com",
                 "url": "https://github.com/wehos/awesome-graph-transformer"
-              },
-              {
-                "type": "link",
-                "addDate": 1730860178000,
-                "title": "solana-developers/program-examples",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/solana-developers/program-examples"
               },
               {
                 "type": "link",
@@ -6569,20 +6646,6 @@
             ]
           }
         ]
-      },
-      {
-        "type": "link",
-        "addDate": 1731758863756,
-        "title": "Larder",
-        "icon": "https://logo.clearbit.com/larder.io",
-        "url": "https://larder.io/home/f/personal/o8dQvHWygKPerFuCZrgXfZ/"
-      },
-      {
-        "type": "link",
-        "addDate": 1731761540561,
-        "title": "Pintree",
-        "icon": "https://logo.clearbit.com/theospeak.github.io",
-        "url": "https://theospeak.github.io/pintree/"
       }
     ]
   }
